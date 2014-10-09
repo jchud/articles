@@ -1,0 +1,49 @@
+body {
+  background-color: #000000;
+  margin-top: -25px;
+}
+
+
+#topsectionabout {
+	margin-left: 150px;
+	margin-top: 95px;
+  color: white;
+}
+
+#content {
+	margin-left: 150px;
+  color: white;
+}
+.backbutton button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+   border: none;
+    border-color: #5CB8E6; 
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    height: 200px;
+    width: 200px;
+    margin-top: 90px;
+    margin-left: 150px;
+   color: #5CB8E6;
+   font-size: ; 
+  -moz-border-radius: 15px;
+  -webkit-border-radius: 15px;
+  border:none ;
+  padding: 5px;
+
+} 
+
+.backbutton button:hover {
+	border: solid;
+	border-color: #5CB8E6;
+} 
+
+#back {
+	font-size: xx-large;
+}
+
+.email{
+  color: white;
+}
